@@ -9,3 +9,6 @@
 * Singly Linked List
   * Standard singly linked list: push/pop front, insert(i), remove(i), reverse, removeValue
   * Queue implementation using a singly linked list with a tail pointer.
+
+* Binary Search (not really a data structure, but its okay I guess)
+  * Both iterative and recursive
