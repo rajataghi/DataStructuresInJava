@@ -1,5 +1,5 @@
 # DataStructuresInJava
- Implementing various data structures and algorithms in Java
+ Implementing data structures and algorithms in Java
  
 * Dynamic Array Implementation
   * Implementation of Pascal's triangle (jagged arrays)
