@@ -12,3 +12,6 @@
 
 * Binary Search (not really a data structure, but its okay I guess)
   * Both iterative and recursive
+  
+* Binary Search Tree
+  * Used generics for the first time!
