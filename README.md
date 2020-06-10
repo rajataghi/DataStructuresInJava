@@ -15,3 +15,7 @@
   
 * Binary Search Tree
   * Used generics for the first time!
+
+* Hash Table
+  * add, get, remove, hash(key).
+  * Very simple hashing used. Next step could be to use prime numbers to make a decent hash.
