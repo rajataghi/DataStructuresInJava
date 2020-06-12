@@ -19,3 +19,7 @@
 * Hash Table
   * add, get, remove, hash(key).
   * Very simple hashing used. Next step could be to use prime numbers to make a decent hash.
+
+* Binary Heap
+  * Implemented Max Heap
+  * Also includes a method for heapsort
