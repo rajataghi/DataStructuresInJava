@@ -34,3 +34,5 @@
     * Kruskal's algo using UnionFind
   * Dijkstra's shortest path algo
   * Solutions to some leetcode questions on graphs
+    * Topological Sort
+	* Cycle detection
