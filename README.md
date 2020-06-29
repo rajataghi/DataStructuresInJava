@@ -23,3 +23,14 @@
 * Binary Heap
   * Implemented Max Heap
   * Also includes a method for heapsort
+
+* Graph Algorithms
+  * Storing undirected and directed graphs
+	* Methods to add & get edges and vertices. Used hashmaps for storing data.
+  * BFS
+  * DFS
+  * Minimum Spanning Trees
+    * Prim's algo
+    * Kruskal's algo using UnionFind
+  * Dijkstra's shortest path algo
+  * Solutions to some leetcode questions on graphs
