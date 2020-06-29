@@ -26,7 +26,7 @@
 
 * Graph Algorithms
   * Storing undirected and directed graphs
-	* Methods to add & get edges and vertices. Used hashmaps for storing data.
+	* Methods to add & get edges and vertices. Adjacency list representation.
   * BFS
   * DFS
   * Minimum Spanning Trees
